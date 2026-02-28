@@ -1,0 +1,25 @@
+{
+    "wpmDot": 15,
+    "wpmDash": 20,
+    "freq": 900,
+    "playbackGap": 20,
+    "dashRatio": 3.0,
+    "keyRepeat": true,
+    "memorizeMode": false,
+    "charTimeout": 0.3,
+    "triggerThreshold": 0.9,
+    "oscInterval": 1.5,
+    "requireStickDown": true,
+    "debugMode": false,
+    "customMorseMap": {
+        ".-.-.-": "\u3001",
+        ".-.-": "\u30fc",
+        "..--": "\uff01",
+        "---.": "\uff1f"
+    },
+    "overlayEnabled": true,
+    "overlayWidth": 1.0,
+    "overlayZ": -1.5,
+    "overlayY": -1.0,
+    "overlayOpacity": 0.8
+}

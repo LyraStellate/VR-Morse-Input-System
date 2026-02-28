@@ -1,0 +1,3 @@
+openvr
+python-osc
+requests

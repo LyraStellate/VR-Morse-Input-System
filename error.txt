@@ -1,0 +1,7 @@
+﻿python : Python 
+発生場所 行:1 文字:1
++ python main.py 2>&1 | Out-File -FilePath error.txt -Encoding utf8
++ ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Python :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
